@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KpvYsE2uQ+4XeET57zJsGbTnETsSjXZOl0kJhGh3y/E=",
+  "Source": "RabbitMQ.Faculties.Endpoint",
+  "BasePath": "_content/RabbitMQ.Faculties.Endpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
