@@ -1,0 +1,12 @@
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\RabbitMQ.Faculties.Contracts.csproj.AssemblyReference.cache
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\RabbitMQ.Faculties.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\RabbitMQ.Faculties.Contracts.AssemblyInfoInputs.cache
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\RabbitMQ.Faculties.Contracts.AssemblyInfo.cs
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\RabbitMQ.Faculties.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\bin\Debug\net6.0\RabbitMQ.Faculties.Contracts.deps.json
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\bin\Debug\net6.0\RabbitMQ.Faculties.Contracts.dll
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\bin\Debug\net6.0\RabbitMQ.Faculties.Contracts.pdb
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\RabbitMQ.Faculties.Contracts.dll
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\refint\RabbitMQ.Faculties.Contracts.dll
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\RabbitMQ.Faculties.Contracts.pdb
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\RabbitMQ.Faculties.Contracts\obj\Debug\net6.0\ref\RabbitMQ.Faculties.Contracts.dll

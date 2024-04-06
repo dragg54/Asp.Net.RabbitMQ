@@ -1,0 +1,7 @@
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\obj\Debug\net6.0\RabbitMQ.Faculties.csproj.AssemblyReference.cache
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\obj\Debug\net6.0\RabbitMQ.Faculties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\obj\Debug\net6.0\RabbitMQ.Faculties.AssemblyInfoInputs.cache
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\obj\Debug\net6.0\RabbitMQ.Faculties.AssemblyInfo.cs
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\obj\Debug\net6.0\RabbitMQ.Faculties.csproj.CoreCompileInputs.cache
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\obj\Debug\net6.0\RabbitMQ.Faculties.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP 840 G5\personal_projects\ASP.Net.RabbitMQ\RabbitMQ.Faculties\obj\Debug\net6.0\RabbitMQ.Faculties.MvcApplicationPartsAssemblyInfo.cache
